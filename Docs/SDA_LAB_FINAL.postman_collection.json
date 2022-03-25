@@ -1,0 +1,27 @@
+{
+	"info": {
+		"_postman_id": "46aba1c0-4d75-4af4-a45f-7bf0c31efb80",
+		"name": "SDA_LAB_FINAL",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "CreateQuestion",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		},
+		{
+			"name": "ReadQuestion",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		}
+	]
+}
