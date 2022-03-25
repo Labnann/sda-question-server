@@ -10,13 +10,14 @@ located at repo/docs
 
 ## API Specification
 
-Question Create:
-Post: /write 
- {tag: <>, description: <>, options: <>, point <>}
+### Create A Question:
+Post: `/write` 
+
+ `{tag: <>, description: <>, options: <>, point <>}`
  
  
- Read a Question:
- GET: /read/:id
+### Read a Question:
+ GET: `/read/:id`
  
 
 ## Sequence Diagram for the Lab Task: 
